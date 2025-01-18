@@ -47,37 +47,20 @@ To analyze how retail giants leverage key metrics and trends to:
 
 ---
 
-### **Key Features**
-#### **Stock Recommendation System**
-- Interactive app built in Wolfram Mathematica.
-- Dynamic selection of retail stocks (**Walmart**, **Target**, **Costco**, **Kroger**, **Amazon**).
-- Fetches real-time data for P/E ratio and market cap using `FinancialData`.
-- Provides actionable recommendations (**Buy**, **Sell**, or **Hold**) with a detailed rationale.
+### **How to Run**
+#### **View the Notebook Online**  
+Access the interactive notebook directly on Wolfram Cloud using the link below:  
+[Retail Analytics Notebook Link](https://www.wolframcloud.com/obj/dcfbeb7b-0888-43f6-b28a-65b0599e5349)
 
-#### **Search and Sentiment Correlation**
-- Analyzed how search trends influence sales and customer engagement during peak retail events.
-- Visualized the correlation between sentiment trends and stock performance.
-
-#### **Profitability & Market Share**
-- Costco excels in niche wholesale categories.
-- Amazon's diversified revenue streams include AWS and advertising.
+#### **Run Locally in Wolfram Mathematica**  
+1. Download and install [Wolfram Mathematica](https://www.wolfram.com/mathematica/).  
+2. Clone this repository and locate the `.nb` file in the `notebooks/` folder.  
+3. Open `Retail_Analytics.nb` in Mathematica.  
+4. Execute the cells sequentially to explore insights and recommendations.
 
 ---
 
-### **Repository Structure**
-```plaintext
-Retail-Analytics-Strategy/
-│
-├── notebooks/
-│   ├── Retail_Analytics.nb        # Wolfram Mathematica Notebook
-│
-├── visualizations/
-│   ├── search_trends_plot.png
-│   ├── stock_recommendation_chart.png
-│   ├── customer_sentiment_correlation.png
-│   ├── revenue_growth_barchart.png
-│
-├── documentation/
-│   ├── Retail_Analytics_Report.pdf  # Detailed project report
-│
-└── README.md
+### **Contact**
+- **Author**: Nikhita Shankar  
+- **Email**: [nikhita4@illinois.edu](mailto:nikhita4@illinois.edu)  
+- **LinkedIn**: [linkedin.com/in/nikhita-shankar-](https://linkedin.com/in/nikhita-shankar-)  
